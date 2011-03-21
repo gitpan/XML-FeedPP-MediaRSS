@@ -1,6 +1,6 @@
 package XML::FeedPP::MediaRSS;
 BEGIN {
-  $XML::FeedPP::MediaRSS::VERSION = '0.01';
+  $XML::FeedPP::MediaRSS::VERSION = '0.02';
 }
 
 use strict;
@@ -292,7 +292,7 @@ XML::FeedPP::MediaRSS - MediaRSS support for XML::FeedPP
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

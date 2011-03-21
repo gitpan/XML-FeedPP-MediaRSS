@@ -14,6 +14,7 @@ my %WriteMakefileArgs = (
   'BUILD_REQUIRES' => {
     'Test::Deep' => '0',
     'Test::More' => '0',
+    'Tie::IxHash' => '0',
     'XML::FeedPP' => '0'
   },
   'CONFIGURE_REQUIRES' => {
@@ -26,7 +27,7 @@ my %WriteMakefileArgs = (
   'PREREQ_PM' => {
     'XML::FeedPP' => '0'
   },
-  'VERSION' => '0.01',
+  'VERSION' => '0.02',
   'test' => {
     'TESTS' => 't/*.t'
   }

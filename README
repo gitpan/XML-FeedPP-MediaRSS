@@ -2,7 +2,7 @@ NAME
     XML::FeedPP::MediaRSS - MediaRSS support for XML::FeedPP
 
 VERSION
-    version 0.01
+    version 0.02
 
 SYNOPSIS
         use XML::FeedPP;
